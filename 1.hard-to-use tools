@@ -1,0 +1,6 @@
+This software is hard-to-use. Please be alert if you plan to install and test them.
+
+1. validator (https://github.com/modENCODE-DCC/validator)
+  If you ever heard a project 'Sequence Ontology', you may be interested in a tool it mentioned whose name is 'GFF3 Validator'. 
+  It's a program written with perl and haven't be maintained since 2012.
+2. 
